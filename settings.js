@@ -51,42 +51,42 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = 'https://instagram.com/Kris01_Real' // ig
-global.sgh = 'https://github.com/krishosting569/' // github
-global.sgc = 'https://chat.whatsapp.com/FQkbyTEfvES3D3OI' // group whatsapp
-global.sdc = 'https://www.discord.com'//discord
-global.snh = 'https://www.youtube.com/channel/KRISHOSTING' // my youtube channel
-global.sfb = 'https://www.facebook.com/' // facebook
-global.syt = 'https://www.youtube.com/' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
+global.sig = '-' // ig
+global.sgh = '-' // github
+global.sgc = '-' // group whatsapp
+global.sdc = '-'//discord
+global.snh = '-' // my youtube channel
+global.sfb = '-' // facebook
+global.syt = '-' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = '0882007324218' //dana
-global.povo = '0882007324218' //ovo
-global.pgopay = '0882007324218' //gopay
-global.plinkaja = '0882007324218' //link aja
-global.ppulsa = '0882007324218' //telkomsel
-global.ppulsa2 = '085786211623' // kalau ada kartu lain isi aja
+global.pdana = '082144607416' //dana
+global.povo = '082144607416' //ovo
+global.pgopay = '082144607416' //gopay
+global.plinkaja = '-' //link aja
+global.ppulsa = '082144607416' //telkomsel
+global.ppulsa2 = '082144607416' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/kosong'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62XXXXXXXXXXX'
-global.nomorown = '6285786211623'
-global.namebot = '𝐊𝐫𝐢𝐬𝐁𝐨𝐭𝐳-𝐌𝐝'
-global.nameown = '𝐊𝐫𝐢𝐬 𝐇𝐨𝐬𝐭𝐢𝐧𝐠'
+global.nomorbot = '6282144607416'
+global.nomorown = '6282144607416'
+global.namebot = 'j e g a Bot'
+global.nameown = 'aga'
 
 /*============== BIODATA ==============*/
 global.umurown = '15'
-global.tinggalown = 'Jawa Tengah Cikamuning' 
+global.tinggalown = 'secret' 
 global.hobyown = 'Membikin Bot'
 global.sifatown = 'Baik Penolong Penyayang'
 global.agamaown = 'Islam'
-global.genderown = 'laki-laki'
+global.genderown = 'secret'
 global.kelasown = '9'
-global.tanggallahirown = '05-𝐀𝐠𝐮𝐬𝐭𝐮𝐬-2022'
+global.tanggallahirown = '03-februari-2022'
 global.namarlown = 'Hamba Allah'
 
 /*============== Github Thanks To ==============*/
-global.namagithub = 'krishosting' // nama github lu
+global.namagithub = 'salwamd' // nama github lu
 global.linkgithub = 'https://github.com/keposlur' // tarok link github lu
 
 /*============== APIKEY SIMPEL ==============*/
@@ -96,11 +96,11 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285786211623', '𝐊𝐫𝐢𝐬 𝐇𝐨𝐬𝐭𝐢𝐧𝐠', true],
-  ['6285786211623', '𝐊𝐫𝐢𝐬 𝐇𝐨𝐬𝐭𝐢𝐧𝐠', true],
-  ['6285786211623', '𝐊𝐫𝐢𝐬 𝐇𝐨𝐬𝐭𝐢𝐧𝐠', true],
-  ['6285786211623', '𝐊𝐫𝐢𝐬 𝐇𝐨𝐬𝐭𝐢𝐧𝐠', true],
-  ['6285786211623', '𝐊𝐫𝐢𝐬 𝐇𝐨𝐬𝐭𝐢𝐧𝐠', true]
+  ['6282144607416', 'aga', true],
+  ['6282144607416', 'aga', true],
+  ['6282144607416', 'aga', true],
+  ['6282144607416', 'aga', true],
+  ['6282144607416', 'aga', true]
     //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
@@ -149,14 +149,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 © 𝐊𝐫𝐢𝐬𝐁𝐨𝐭𝐳-𝐌𝐝 」' //Main Watermark
-global.wm2 = '© 𝐊𝐫𝐢𝐬𝐁𝐨𝐭𝐳-𝐌𝐝'
-global.wm3 = '© 𝐊𝐫𝐢𝐬𝐁𝐨𝐭𝐳-𝐌𝐝 '
+global.wm = '                「 © aga 」' //Main Watermark
+global.wm2 = '© jega'
+global.wm3 = '© jega '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `© 𝐊𝐫𝐢𝐬𝐁𝐨𝐭𝐳-𝐌𝐝`
+global.titlebot = `© jega bot`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '                「𝐊𝐫𝐢𝐬𝐁𝐨𝐭𝐳-𝐌𝐝 あ」'
+global.author = '                「aga あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
@@ -647,8 +647,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = '𝐊𝐫𝐢𝐬𝐁𝐨𝐭𝐳-𝐌𝐝'
-global.stickauth = `© 𝐊𝐫𝐢𝐬 𝐇𝐨𝐬𝐭𝐢𝐧𝐠`
+global.stickpack = 'jega'
+global.stickauth = `© aga`
 
 global.multiplier = 38 // The higher, The harder levelup
 
