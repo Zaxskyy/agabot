@@ -51,39 +51,39 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = '-' // ig
+global.sig = 'https://instagram.com/zaxskyy_?igshid=YmMyMTA2M2Y=' // ig
 global.sgh = '-' // github
-global.sgc = '-' // group whatsapp
+global.sgc = 'https://chat.whatsapp.com/CbomyWWNOEDFwYrhPeezU2' // group whatsapp
 global.sdc = '-'//discord
 global.snh = '-' // my youtube channel
 global.sfb = '-' // facebook
 global.syt = '-' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = '082144607416' //dana
-global.povo = '082144607416' //ovo
+global.pdana = '087870857446' //dana
+global.povo = '085890891600' //ovo
 global.pgopay = '082144607416' //gopay
 global.plinkaja = '-' //link aja
-global.ppulsa = '082144607416' //telkomsel
-global.ppulsa2 = '082144607416' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.com/kosong'
+global.ppulsa = '087870857446' //telkomsel
+global.ppulsa2 = '085890891600' // kalau ada kartu lain isi aja
+global.psaweria = 'https://saweria.com/zaxsky'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282144607416'
-global.nomorown = '6282144607416'
-global.namebot = 'j e g a Bot'
-global.nameown = 'aga'
+global.nomorbot = '62878708574460'
+global.nomorown = '6287870857446'
+global.namebot = 'Zaxskyy BOY'
+global.nameown = 'Zaky'
 
 /*============== BIODATA ==============*/
 global.umurown = '15'
-global.tinggalown = 'secret' 
-global.hobyown = 'Membikin Bot'
+global.tinggalown = 'Kamu nanya' 
+global.hobyown = 'Mencintaimu'
 global.sifatown = 'Baik Penolong Penyayang'
-global.agamaown = 'Islam'
-global.genderown = 'secret'
+global.agamaown = 'Secret'
+global.genderown = 'Laki laki'
 global.kelasown = '9'
-global.tanggallahirown = '03-februari-2022'
-global.namarlown = 'Hamba Allah'
+global.tanggallahirown = '30-Desember-2007'
+global.namarlown = 'Najwan Zaki'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = 'salwamd' // nama github lu
@@ -96,11 +96,11 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282144607416', 'aga', true],
-  ['6282144607416', 'aga', true],
-  ['6282144607416', 'aga', true],
-  ['6282144607416', 'aga', true],
-  ['6282144607416', 'aga', true]
+  ['6287870857446', 'aga', true],
+  ['6285890891600', 'aga', true],
+  ['6287870857446', 'aga', true],
+  ['6287870857446', 'aga', true],
+  ['6287870857446', 'aga', true]
     //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
@@ -149,14 +149,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 © aga 」' //Main Watermark
-global.wm2 = '© jega'
-global.wm3 = '© jega '
+global.wm = '                「 ©Zaxsky 」' //Main Watermark
+global.wm2 = '© Zaxsky'
+global.wm3 = '© Zaxsky '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `© jega bot`
+global.titlebot = `© zaxsky bot`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '                「aga あ」'
+global.author = '                「zaky あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
